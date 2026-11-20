@@ -26,17 +26,6 @@ dotnet run --project .\PclSe.Fluent.csproj
 - [README.md](README.md) - 使用指南、主题系统、控件库
 - [交互与接入说明.md](交互与接入说明.md) - 完整技术规范、生产接入图
 
-## 截图
-
-![实例墙](docs/screenshots/instance-wall.png)  
-*实例中心 - Java/基岩版实例管理*
-
-![资源市场](docs/screenshots/market.png)  
-*资源市场 - 搜索、筛选、安装计划*
-
-![深色模式](docs/screenshots/dark-mode.png)  
-*深色主题 - 动态主题切换*
-
 ## 许可证
 
 本项目作为 PCL Symbio Edition 的一部分开源。
