@@ -14,7 +14,7 @@ PCL Symbio Edition 的现代化 WPF 界面原型和组件系统。
 ## 快速开始
 
 ```powershell
-git clone https://github.com/yourusername/Symbio-Skin-Library.git
+git clone https://github.com/Hydrogen-Peroxide/Symbio-Skin-Library.git
 cd Symbio-Skin-Library
 dotnet run --project .\PclSe.Fluent.csproj
 ```
@@ -32,5 +32,5 @@ dotnet run --project .\PclSe.Fluent.csproj
 
 ## 相关链接
 
-- [PCL Symbio Edition](https://github.com/yourusername/PCL-Symbio-Edition)
+- [PCL Symbio Edition](https://github.com/Hydrogen-Peroxide/PCL-Symbio-Edition)
 - [项目官网](https://coneric.dpdns.org/)
